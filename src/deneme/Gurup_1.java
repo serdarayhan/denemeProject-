@@ -4,7 +4,7 @@ public class Gurup_1 {
 
 	public static void main(String[] args) {
 		 int sayi;   //; yazim dilindeki . gibidir.java ;'u gorunce o satirdaki kod yaziliminin bittigini anlar
-	        sayi=27;
+	        sayi=100;
 	        
 	        System.out.print(sayi);//Eger println degilde print yazarsak yazdirma isleminden sonra alt satira gecmez
 	        
