@@ -9,6 +9,7 @@ public class Gurup_1 {
 	        System.out.print(sayi);//Eger println degilde print yazarsak yazdirma isleminden sonra alt satira gecmez
 	        
 	        char ilkHarf='M';
+	        char ilkHarf2='S';
 	        System.out.println(ilkHarf);// println yazinca yazma isleminden sonra alt satira gecer
 	        
 	        double sayiDouble = 5.34;
