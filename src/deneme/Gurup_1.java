@@ -16,6 +16,9 @@ public class Gurup_1 {
 	        
 	        System.out.println(sayiDouble);
 	        System.out.println("Serdar Branch içindeki Version 3");
+	        System.out.println("Serdar Branch içindeki ikinici deneme Version 3");
+	        System.out.println("Serdar Branch içindeki ikinici deneme Version 3");
+	        
 	        
 
 	}
